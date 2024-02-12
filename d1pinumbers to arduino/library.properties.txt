@@ -1,5 +1,5 @@
 name=D1 pinumbers to Arduino
-version=1.0.0
+version=v1.0.0
 author=Raviv Klein
 maintainer=Raviv Klein
 sentence=pin number translator from wemos D1 R32 to Arduino
