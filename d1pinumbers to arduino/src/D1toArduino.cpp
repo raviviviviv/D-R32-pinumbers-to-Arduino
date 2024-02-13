@@ -1,9 +1,7 @@
 #include "D1toArduino.h"
 #include "Arduino.h"
 
-d1pinumbers::d1pinumbers() { }
-
-void d1pinumbers::setnumbers() {
+d1toarduino::d1toarduino() {
   int pin2 = 26;
   int pin3 = 25;
   int pin4 = 17;
