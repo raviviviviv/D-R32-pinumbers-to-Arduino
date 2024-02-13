@@ -1,0 +1,10 @@
+name=D1 pinumbers to Arduino
+version=1.0.0
+author=Raviv Klein ravivklein@gmail.com
+maintainer=Raviv Klein, ravivklein@gmail.com
+sentence=pin number translator from wemos D1 R32 to Arduino
+paragraph=simple and useful tool to tranlate pin numbers from the Wemos D1 R32 to arduino devices
+category=Signal Input/Output
+url=https://github.com/raviviviviv/D-R32-pinumbers-to-Arduino/tree/main/d1pinumbers%20to%20arduino
+architectures=Arduino
+includes=D1toArduino.h
